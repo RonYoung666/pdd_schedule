@@ -1,0 +1,13 @@
+[package]
+name = "pdd_schedule"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# xlsxwriter = "0.5.0"
+rust_xlsxwriter = "0.26.0"
+chrono = "0.4.23"
+sscanf = "0.4.0"
+proconio = "0.4.3"
